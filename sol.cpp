@@ -14,6 +14,8 @@ int main() {
 			int x;
 			cin >> x;
 		}
+		// don't forget to use long long data type
+		// view the image in this repository for better understanding
 		long long pairs = 0;
 		for (int i = 0; i < n - 1; i++) {
 			// take the sum of the number of elements ahead 
